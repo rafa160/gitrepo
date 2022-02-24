@@ -17,3 +17,6 @@ does not fit on web application.
 - You also can check a simple test using mokito to check the api connection and the response data.
 
 
+![](assets/images/img1.png) ![](assets/images/img2.png)
+
+
